@@ -1,0 +1,45 @@
+html {
+    scroll-behavior: smooth;
+}
+.navbar-nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.home-image {
+    border-radius: 50%;
+    border: solid 5px #ded5d5;
+    max-height: 500px;
+    max-width: 500px;
+}
+.aboutme-image {
+    border-radius: 70%;
+    border: solid 5px #ded5d5;
+    max-height: 425px;
+    max-width: 500px;
+}
+.about_me-content {
+    justify-content: space-evenly;
+}
+.experience-content {
+    justify-content: space-evenly;
+}
+.section {
+    height: 100vh;
+}
+.fs35 {
+    font-size: 35px;
+}
+.fs40 {
+    font-size: 40px;
+}
+.fs30 {
+    font-size: 18px;
+}
+.fs18 {
+    font-size: 18px;
+}
+.fs60 {
+    font-size: 60px;
+}
+
